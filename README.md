@@ -1,8 +1,9 @@
 # SQL Projects
-Lists of SQL Query done for dataset from diverse domains
+Lists of SQL Query done for dataset from diverse domains 💻
 - World Life Expectancy
 - US Household Income
 
+The repository has the following contents:
 ```
 Project Files/
 ├── data/                         # Used data
